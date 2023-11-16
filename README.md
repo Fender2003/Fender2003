@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Thakkar</h1>
 <h3 align="center">Junior at Nirma University(CSE).</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fender2003" alt="fender2003" /></a> </p>
-
 - 🔭 I’m currently working on **Tour management project**
 
 - 🌱 I’m currently learning **Deep Learning, MERN stack and DSA**
