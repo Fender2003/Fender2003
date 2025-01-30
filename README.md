@@ -1,8 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Dhruv Thakkar</h1>
-<h3 align="center">Junior at Nirma University(CSE).</h3>
-
-- 🔭 I’m currently working on **Tour management project**
+<h3 align="center"> Nirma University(CSE).</h3>
 
 - 🌱 I’m currently learning **Deep Learning, MERN stack and DSA**
 
